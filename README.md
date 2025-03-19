@@ -22,3 +22,5 @@ docker run -d --name cdistancia2 -p 5010:5000 zotarelli/conversao-distancia:late
 ### publish or push your image
 
 docker push zotarelli/conversao-distancia:latest
+
+###
